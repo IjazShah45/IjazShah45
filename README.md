@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @IjazShah45
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m @Ijaz Shah  
+**.NET Developer | Backend Engineer | Software Developer**
 
-<!---
-IjazShah45/IjazShah45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Areas of Interest**  
+- ASP.NET Core & MVC  
+- C# Application Development  
+- RESTful APIs and Microservices  
+- Entity Framework Core & SQL Server  
+- Azure Cloud Services & Deployment  
+- Scalable and Secure Web Applications
+
+**Currently Learning**  
+- .NET MAUI for cross-platform development  
+- Azure DevOps and CI/CD pipelines  
+- Clean Architecture & SOLID Principles  
+- Performance optimization in .NET apps
+
+**Looking to Collaborate On**  
+- Backend development projects using .NET  
+- Cloud-native applications  
+- Open-source .NET libraries and tools
+
+**Contact**  
+- Email: ijaazshah45@gmail.com
